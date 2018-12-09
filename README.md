@@ -17,7 +17,7 @@
 如果需要删除无用的，请修改index.js
 
 ## 运行方式
-
+ 
 使用Pycharm直接运行即可，
 或者使用命令
 `python manage.py runserver`
