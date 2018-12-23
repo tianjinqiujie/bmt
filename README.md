@@ -24,7 +24,7 @@
 
 ## 添加新页面
 比如,增加通用字典
-
+ 
 修改bmt/urls.py,添加url
 ```python
 path('SystemManage/tyzd/', views.tyzd),
